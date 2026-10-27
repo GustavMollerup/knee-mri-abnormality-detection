@@ -1,0 +1,25 @@
+# Competition data (cannot be redistributed)
+data/
+*.dcm
+*.zip
+
+# Model weights and outputs
+*.pt
+*.pth
+*.bin
+*.safetensors
+submission*.csv
+legacy_fold_diagnostics.csv
+order_cache*.json
+
+# Kaggle API key
+kaggle.json
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store

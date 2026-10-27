@@ -1,0 +1,13 @@
+# Core pipeline (the notebook was run on Kaggle's GPU image, Python 3.11)
+numpy
+pandas
+scipy
+scikit-learn
+pydicom
+opencv-python
+torch
+transformers
+joblib
+
+# Downloading the competition data
+kaggle
